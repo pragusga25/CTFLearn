@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Thu Aug  5 04:13:36 2021
+Invocation: foremost Tux.jpg 
+Output directory: /home/kali/Desktop/CTF/CTFLearn/forensics/tux/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: Tux.jpg
+Start: Thu Aug  5 04:13:36 2021
+Length: 5 KB (5703 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	       5 KB 	          0 	 
+1:	00000010.zip 	      213 B 	       5488 	 
+Finish: Thu Aug  5 04:13:36 2021
+
+2 FILES EXTRACTED
+	
+jpg:= 1
+zip:= 1
+------------------------------------------------------------------
+
+Foremost finished at Thu Aug  5 04:13:36 2021
