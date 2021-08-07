@@ -1,0 +1,24 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sat Aug  7 03:10:06 2021
+Invocation: foremost 3.png 
+Output directory: /home/kali/Desktop/CTF/CTFLearn/forensics/exclusive-santa/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: 3.png
+Start: Sat Aug  7 03:10:06 2021
+Length: 1 MB (1221575 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	      51 KB 	          0 	  (1200 x 875)
+1:	00000102.png 	       1 MB 	      52406 	  (1280 x 720)
+Finish: Sat Aug  7 03:10:06 2021
+
+2 FILES EXTRACTED
+	
+png:= 2
+------------------------------------------------------------------
+
+Foremost finished at Sat Aug  7 03:10:06 2021
