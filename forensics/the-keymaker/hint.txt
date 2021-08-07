@@ -1,0 +1,13 @@
+iv has 128 bits (32 chars)
+K has 256 bits (64 chars)
+resource : 
+- http://vip.sugovica.hu/Sardi/kepnezo/JPEG%20File%20Layout%20and%20Format.htm
+- https://cyber.meme.tips/jpdump/
+
+openssl enc -d -aes-256-cbc -iv SOF0 -K SOS -in flag.enc -out flag -base64
+
+iv does not include the marker or length of SOF0
+
+key does not include the S0S marker
+
+
